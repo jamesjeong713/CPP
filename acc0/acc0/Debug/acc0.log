@@ -1,0 +1,5 @@
+﻿  acc0.c
+c:\users\seongyeop jeong\documents\visual studio 2015\projects\acc0\acc0\acc0.c(114): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\seongyeop jeong\documents\visual studio 2015\projects\acc0\acc0\acc0.c(115): warning C4013: 'strcpy' undefined; assuming extern returning int
+  acc0.vcxproj -> C:\Users\Seongyeop Jeong\Documents\Visual Studio 2015\Projects\acc0\Debug\acc0.exe
+  acc0.vcxproj -> C:\Users\Seongyeop Jeong\Documents\Visual Studio 2015\Projects\acc0\Debug\acc0.pdb (Full PDB)

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\seongyeop jeong\documents\visual studio 2015\projects\ass3cst8219\ass3cst8219\</FILEPATH>
+      <FILENAME>ass3.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'running' hides previous declaration at line '19' of 'c:\users\seongyeop jeong\documents\visual studio 2015\projects\ass3cst8219\ass3cst8219\ass3.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\seongyeop jeong\documents\visual studio 2015\projects\ass3cst8219\ass3cst8219\</FILEPATH>
+        <FILENAME>ass3.cpp</FILENAME>
+        <LINE>19</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\seongyeop jeong\documents\visual studio 2015\projects\ass3cst8219\ass3cst8219\</FILEPATH>
+      <FILENAME>graphicelement.cpp</FILENAME>
+      <LINE>142</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6283</DEFECTCODE>
+    <DESCRIPTION>'temp_name' is allocated with array new [], but deleted with scalar delete.</DESCRIPTION>
+    <FUNCTION>RasterGraphic::InsertGraphicElement</FUNCTION>
+    <DECORATED>?InsertGraphicElement@RasterGraphic@@QAEXXZ</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\seongyeop jeong\documents\visual studio 2015\projects\ass3cst8219\ass3cst8219\</FILEPATH>
+        <FILENAME>graphicelement.cpp</FILENAME>
+        <LINE>47</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\seongyeop jeong\documents\visual studio 2015\projects\ass3cst8219\ass3cst8219\</FILEPATH>
+        <FILENAME>graphicelement.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

@@ -1,0 +1,6 @@
+﻿  RasterGraphic.cpp
+  GraphicElement.cpp
+c:\users\seongyeop jeong\documents\visual studio 2015\projects\ass3cst8219\ass3cst8219\graphicelement.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Ass3CST8219.vcxproj -> C:\Users\Seongyeop Jeong\documents\visual studio 2015\Projects\Ass3CST8219\Debug\Ass3CST8219.exe
+  Ass3CST8219.vcxproj -> C:\Users\Seongyeop Jeong\documents\visual studio 2015\Projects\Ass3CST8219\Debug\Ass3CST8219.pdb (Full PDB)
